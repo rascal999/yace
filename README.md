@@ -1,4 +1,4 @@
-yace
-====
+autotools-template
+==================
 
-Yet Another Chess Engine
+Autotools template project
