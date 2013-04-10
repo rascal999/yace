@@ -30,7 +30,7 @@ if [[ $? != 0 ]]; then
    exit
 fi
 
-mv gameboy-emulator-0.1.tar.gz dist/
+mv yace-0.1.tar.gz dist/
 if [[ $? != 0 ]]; then
    exit
 fi

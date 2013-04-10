@@ -1,2 +1,2 @@
-bin_PROGRAMS = main
-main_SOURCES = main.c
+bin_PROGRAMS = yace
+yace_SOURCES = main.c board.h board.c pieces.c
