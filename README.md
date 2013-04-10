@@ -1,4 +1,4 @@
-autotools-template
+Yet Another Chess Engine
 ==================
 
-Autotools template project
+Doing for fun, and learning experience
